@@ -1,3 +1,5 @@
+[Join The Discord!](https://discord.gg/cGv7nkbNpb)
+
 Modern cities suffer not from a lack of resources, but from a lack of coordination. Governments have become slow, opaque, and tangled in regulations that hinder local efficiency. Donors, coalitions, and volunteers mean well, but fragmentation between these entities results in time-consuming efforts to be duplicated.
 
 ForkTheCity is a platform for communities to create and discover a civic networking platform for *their* needs from our open-source infrastructure and resources. It’s designed to make local problem-solving direct, transparent, and community owned. Our goal is to eliminate unnecessary bureaucracy by empowering neighborhoods to organize, fund, and execute civic work with modular and scalable tools.
